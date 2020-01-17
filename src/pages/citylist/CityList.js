@@ -27,7 +27,6 @@ export default class CityList extends Component {
     ],
     open: true
   }
-
   render() {
     let { citylist } = this.state
     return (
@@ -97,7 +96,6 @@ export default class CityList extends Component {
       citylist: arry
     })
   }
-
   citylistscroll(el,title) {
     this.leftBox.scrollToElement('#' + title.text, 600)
   }
