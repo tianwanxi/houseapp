@@ -1,0 +1,31 @@
+.mapPage{
+  width: 100%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+  .mapPageTop{
+    height:8%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color:rgb(79, 90, 112);
+    color: white;
+    font-size: 18px;
+    .bacbtn{
+      text-align: left;
+      width: 50px;
+      height: 30px;
+      line-height: 30px;
+      margin-left: 10px;
+      border-radius: 20px;
+    }
+    div{
+      flex: 4;
+      text-align: center;
+    }
+  }
+  #container{
+    width: 100%;
+    height:92%;
+}
+}

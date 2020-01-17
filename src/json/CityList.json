@@ -1,0 +1,533 @@
+{
+    "hotCity": [
+        {
+            "cityId": 2,
+            "cityName": "北京",
+            "url": "/beijing",
+            "hasReturl": false
+        },
+        {
+            "cityId": 8,
+            "cityName": "成都",
+            "url": "/chengdu",
+            "hasReturl": false
+        },
+        {
+            "cityId": 9,
+            "cityName": "重庆",
+            "url": "/chongqing",
+            "hasReturl": false
+        },
+        {
+            "cityId": 4,
+            "cityName": "广州",
+            "url": "/guangzhou",
+            "hasReturl": false
+        },
+        {
+            "cityId": 3,
+            "cityName": "杭州",
+            "url": "/hangzhou",
+            "hasReturl": false
+        },
+        {
+            "cityId": 5,
+            "cityName": "南京",
+            "url": "/nanjing",
+            "hasReturl": false
+        },
+        {
+            "cityId": 1,
+            "cityName": "上海",
+            "url": "/shanghai",
+            "hasReturl": false
+        },
+        {
+            "cityId": 7,
+            "cityName": "深圳",
+            "url": "/shenzhen",
+            "hasReturl": false
+        },
+        {
+            "cityId": 6,
+            "cityName": "苏州",
+            "url": "/suzhou",
+            "hasReturl": false
+        },
+        {
+            "cityId": 10,
+            "cityName": "天津",
+            "url": "/tianjin",
+            "hasReturl": false
+        },
+        {
+            "cityId": 16,
+            "cityName": "武汉",
+            "url": "/wuhan",
+            "hasReturl": false
+        },
+        {
+            "cityId": 17,
+            "cityName": "西安",
+            "url": "/xian",
+            "hasReturl": false
+        }
+    ],
+    "cityData": [
+        {
+            "firstChar": "A",
+            "list": [
+                {
+                    "cityId": 3568,
+                    "cityName": "阿巴嘎旗",
+                    "url": "/abagaqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 255,
+                    "cityName": "阿坝",
+                    "url": "/aba",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1704,
+                    "cityName": "阿坝县",
+                    "url": "/abaxian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 765,
+                    "cityName": "阿城区",
+                    "url": "/acheng",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 680,
+                    "cityName": "阿尔山市",
+                    "url": "/aershan",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2238,
+                    "cityName": "阿合奇县",
+                    "url": "/aheqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2107,
+                    "cityName": "阿克塞哈萨克族自治县",
+                    "url": "/akesai",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 332,
+                    "cityName": "阿克苏地区",
+                    "url": "/akesudiqu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2213,
+                    "cityName": "阿克苏市",
+                    "url": "/akesu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2237,
+                    "cityName": "阿克陶县",
+                    "url": "/aketao",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 389,
+                    "cityName": "阿拉尔",
+                    "url": "/alaer",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3594,
+                    "cityName": "阿拉山口市",
+                    "url": "/alashankoushi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 57,
+                    "cityName": "阿拉善",
+                    "url": "/alashan",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3578,
+                    "cityName": "阿拉善右旗",
+                    "url": "/ayouqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3577,
+                    "cityName": "阿拉善左旗",
+                    "url": "/azuoqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 338,
+                    "cityName": "阿勒泰地区",
+                    "url": "/aletaidiqu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2275,
+                    "cityName": "阿勒泰市",
+                    "url": "/aletai",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 288,
+                    "cityName": "阿里",
+                    "url": "/ali",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3531,
+                    "cityName": "阿鲁科尔沁旗",
+                    "url": "/aluqinqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3550,
+                    "cityName": "阿荣旗",
+                    "url": "/arongqi",
+                    "hasReturl": false
+                }
+            ]
+        },
+        {
+            "firstChar": "B",
+            "list": [
+                {
+                    "cityId": 1955,
+                    "cityName": "八宿县",
+                    "url": "/basu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2211,
+                    "cityName": "巴楚县",
+                    "url": "/bachu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1371,
+                    "cityName": "巴东县",
+                    "url": "/badong",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2235,
+                    "cityName": "巴里坤哈萨克自治县",
+                    "url": "/balikun",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3533,
+                    "cityName": "巴林右旗",
+                    "url": "/bayouqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3532,
+                    "cityName": "巴林左旗",
+                    "url": "/bazuoqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1591,
+                    "cityName": "巴马瑶族自治县",
+                    "url": "/bama",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1947,
+                    "cityName": "巴青县",
+                    "url": "/baqing",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1720,
+                    "cityName": "巴塘县",
+                    "url": "/batang",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 56,
+                    "cityName": "巴彦淖尔",
+                    "url": "/bayannaoer",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 769,
+                    "cityName": "巴彦县",
+                    "url": "/bayan",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1960,
+                    "cityName": "巴宜区",
+                    "url": "/linzhixian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 331,
+                    "cityName": "巴音郭楞",
+                    "url": "/bayinguoleng",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 253,
+                    "cityName": "巴中",
+                    "url": "/bazhong",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3510,
+                    "cityName": "巴州区",
+                    "url": "/bazhouqu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 489,
+                    "cityName": "霸州市",
+                    "url": "/bazhou",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 77,
+                    "cityName": "白城",
+                    "url": "/baicheng",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2080,
+                    "cityName": "白河县",
+                    "url": "/baihe",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1987,
+                    "cityName": "白朗县",
+                    "url": "/bailang",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 390,
+                    "cityName": "白沙",
+                    "url": "/baisha",
+                    "hasReturl": false
+                }
+            ]
+        },
+        {
+            "firstChar": "C",
+            "list": [
+                {
+                    "cityId": 532,
+                    "cityName": "沧县",
+                    "url": "/cangxian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1873,
+                    "cityName": "沧源佤族自治县",
+                    "url": "/changyuanxian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 32,
+                    "cityName": "沧州",
+                    "url": "/cangzhou",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 911,
+                    "cityName": "苍南",
+                    "url": "/cangnan",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1554,
+                    "cityName": "苍梧县",
+                    "url": "/cangwu",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1617,
+                    "cityName": "苍溪县",
+                    "url": "/cangxi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 4479,
+                    "cityName": "曹妃甸区",
+                    "url": "/caofeidian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1201,
+                    "cityName": "曹县",
+                    "url": "/caoxian",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1813,
+                    "cityName": "册亨县",
+                    "url": "/ceheng",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2227,
+                    "cityName": "策勒县",
+                    "url": "/cele",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1784,
+                    "cityName": "岑巩县",
+                    "url": "/cengong",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1553,
+                    "cityName": "岑溪市",
+                    "url": "/cenxi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1402,
+                    "cityName": "茶陵县",
+                    "url": "/chaling",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 4469,
+                    "cityName": "茶山镇",
+                    "url": "/chashan",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 2267,
+                    "cityName": "察布查尔锡伯自治县",
+                    "url": "/chabuchaer",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3563,
+                    "cityName": "察哈尔右翼后旗",
+                    "url": "/chayouhouqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3561,
+                    "cityName": "察哈尔右翼前旗",
+                    "url": "/chayouqianqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 3562,
+                    "cityName": "察哈尔右翼中旗",
+                    "url": "/chayouzhongqi",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1954,
+                    "cityName": "察雅县",
+                    "url": "/chaya",
+                    "hasReturl": false
+                },
+                {
+                    "cityId": 1965,
+                    "cityName": "察隅县",
+                    "url": "/chayu",
+                    "hasReturl": false
+                }
+            ]
+        },
+        {
+            "firstChar": "D",
+            "list": []
+        },
+        {
+            "firstChar": "E",
+            "list": []
+        },
+        {
+            "firstChar": "F",
+            "list": []
+        },
+        {
+            "firstChar": "G",
+            "list": []
+        },
+        {
+            "firstChar": "H",
+            "list": []
+        },
+        {
+            "firstChar": "I",
+            "list": []
+        },
+        {
+            "firstChar": "J",
+            "list": []
+        },
+        {
+            "firstChar": "K",
+            "list": []
+        },
+        {
+            "firstChar": "L",
+            "list": []
+        },
+        {
+            "firstChar": "M",
+            "list": []
+        },
+        {
+            "firstChar": "N",
+            "list": []
+        },
+        {
+            "firstChar": "P",
+            "list": []
+        },
+        {
+            "firstChar": "Q",
+            "list": []
+        },
+        {
+            "firstChar": "R",
+            "list": []
+        },
+        {
+            "firstChar": "S",
+            "list": []
+        },
+        {
+            "firstChar": "T",
+            "list": []
+        },
+        {
+            "firstChar": "W",
+            "list": []
+        },
+        {
+            "firstChar": "X",
+            "list": []
+        },
+        {
+            "firstChar": "Y",
+            "list": []
+        },
+        {
+            "firstChar": "Z",
+            "list": []
+        }
+    ]
+}

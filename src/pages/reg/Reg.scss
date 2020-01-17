@@ -1,0 +1,30 @@
+.am-checkbox-agree .am-checkbox-agree-label{
+  color:#ccc;
+  font-size: 14px;
+}
+.am-wingblank{
+  .authcode{
+    display: flex;
+    margin-left: 15px;
+    width:96%;
+    height: 44px;
+    border-bottom: 1px solid #ddd;
+    input{
+      width:70%;
+      height: 44px;
+      box-sizing: border-box;
+      border:none;
+      font-size: 16px;
+    }
+    input::-webkit-input-placeholder{
+      color:rgb(194, 191, 191);
+      font-size: 17px;
+    }
+    div{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color:rgb(194, 191, 191);
+    }
+  }
+}
