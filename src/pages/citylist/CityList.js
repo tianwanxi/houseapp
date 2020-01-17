@@ -16,10 +16,6 @@ const city = cityData.map((_val) => ({
     return ({ text: val.cityName })
   })
 }));
-const headc = city.map(_headc=>({
-  firstChar: _headc.firstChar,
-}))
-console.log(headc)
 export default class CityList extends Component {
   state = {
     citylist: [{ id: 0, text: "国内", classNa: 'active' },
